@@ -23,12 +23,14 @@
       <strong>CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
+     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
         alt="JavaScript"
       />
+      </a>
       <strong>JavaScript</strong>
     </td>
   </tr>
