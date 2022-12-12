@@ -23,7 +23,7 @@
       <strong>CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
-     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+     <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
