@@ -4,7 +4,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="110" width="110">
      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
@@ -15,7 +15,7 @@
      </a>
       <strong>HTML5</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="110" width="110">
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
@@ -26,7 +26,7 @@
      </a>
       <strong>CSS3</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="110" width="110">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
