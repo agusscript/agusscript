@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I’m Agustin</h1>
-<h2 align="center">👀 I’m interested in becoming a Developer.</h2>
- <p align="center">🌱 I’m currently learning HTML, CSS and JavaScript.</p>
+<h1 align="center">Hello World, I’m Agustin</h1>
+<h2 align="center">I’m interested in becoming a Developer.</h2>
+ <p align="center">I’m currently learning HTML, CSS and JavaScript.</p>
 
 <table align="center">
   <tr>
