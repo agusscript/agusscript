@@ -1,5 +1,7 @@
+<h1 align="center">Hello World!, I’m Agustin</h1>
+
 <img src ="https://github.com/agusscript/Banners/blob/main/images/github-banner-dic-2022.webp" alt="Banner"/>
-<h1 align="center">Hello World, I’m Agustin</h1>
+
 <h2 align="center">I’m interested in becoming a Developer.</h2>
  <p align="center">I’m currently learning HTML, CSS and JavaScript.</p>
 
