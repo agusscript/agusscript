@@ -88,7 +88,7 @@
 <table>
   <tr>
     <td align="center" height="120" width="120">
-     <a href="www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240">
+     <a href="https://www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240/">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
         width="60"
@@ -96,7 +96,7 @@
         alt="Linkedin"
       />
      </a>
-     <a href="www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240">
+     <a href="https://www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240/">
       <strong>Linkedin</strong>
      </a>
     </td>
