@@ -87,7 +87,7 @@
 <h2>You can contact me on</h2>
 <table>
   <tr>
-    <td align="center" height="120" width="120">
+    <td align="center" height="115" width="115">
      <a href="https://www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240/">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -100,7 +100,7 @@
       <strong>Linkedin</strong>
      </a>
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="115" width="115">
      <a href="mailto:agus.sanchez.240@gmail.com">
       <img
         src="https://github.com/agusscript/Banners/blob/main/images/icons8-gmail-logo-96.svg"
@@ -113,7 +113,7 @@
      <strong>Gmail</strong>
      </a>
     </td>
-   <td align="center" height="120" width="120">
+   <td align="center" height="115" width="115">
      <a href="https://twitter.com/agus_script">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
