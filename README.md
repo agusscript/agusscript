@@ -100,6 +100,19 @@
       <strong>Linkedin</strong>
      </a>
     </td>
+    <td align="center" height="120" width="120">
+     <a href="mailto:agus.sanchez.240@gmail.com">
+      <img
+        src="https://github.com/agusscript/Banners/blob/main/images/icons8-gmail-logo-96.svg"
+        width="60"
+        height="50"
+        alt="Gmail"
+      />
+     </a>
+     <a href="mailto:agus.sanchez.240@gmail.com">
+     <strong>Gmail</strong>
+     </a>
+    </td>
    <td align="center" height="120" width="120">
      <a href="https://twitter.com/agus_script">
       <img
