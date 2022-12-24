@@ -117,7 +117,7 @@
      <a href="https://twitter.com/agus_script">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
-        width="40"
+        width="44"
         height="50"
         alt="Twitter"
       />
