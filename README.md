@@ -103,7 +103,7 @@
     <td align="center" height="115" width="115">
      <a href="mailto:agus.sanchez.240@gmail.com">
       <img
-        src="https://github.com/agusscript/Banners/blob/main/images/icons8-gmail-logo-96.svg"
+        src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg"
         width="60"
         height="50"
         alt="Gmail"
