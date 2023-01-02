@@ -1,6 +1,6 @@
 <h1>Hello World!, I’m Agustin</h1>
 
-<img src ="https://github.com/agusscript/agusscript/blob/main/images/github-banner.webp"/>
+<img src ="https://github.com/agusscript/agusscript/blob/main/images/github-banner-en2023.webp"/>
 
 <h2>Languages and Tools</h2>
 
