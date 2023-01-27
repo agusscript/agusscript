@@ -40,6 +40,17 @@
      <strong>JavaScript</strong>
     </td>
     <td align="center" height="110" width="110">
+     <a href="https://sass-lang.com/">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+     </a>
+     <strong>Sass</strong>
+    </td>
+    <td align="center" height="110" width="110">
      <a href="https://git-scm.com/">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
