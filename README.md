@@ -61,28 +61,6 @@
      </a>
      <strong>Git</strong>
     </td>
-   <td align="center" height="110" width="110">
-     <a href="https://www.linux.com/what-is-linux/">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="48"
-        height="48"
-        alt="Linux"
-      />
-     </a>
-     <strong>Linux</strong>
-    </td>
-   <td align="center" height="110" width="110">
-     <a href="https://www.gnu.org/software/bash/">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-        width="48"
-        height="48"
-        alt="Bash"
-      />
-     </a>
-     <strong>Bash</strong>
-    </td>
   </tr>
 </table>
 
