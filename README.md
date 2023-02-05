@@ -64,7 +64,8 @@
   </tr>
 </table>
 
-<h2>Languages Stats</h2>
+<h2>Stats</h2>
+
 <a href="https://github.com/agusscript?tab=repositories">
  <img 
    src="https://github-readme-stats-five-sandy.vercel.app/api/top-langs/?username=agusscript&layout=compact"
@@ -73,11 +74,10 @@
  />
 </a>
 
-<h2>Github Stats</h2>
 <a href="https://github.com/agusscript?tab=repositories">
  <img 
    src="https://streak-stats.demolab.com/?user=agusscript"
-   width="450"
+   width="457"
    alt="Streak stats"
  />
 </a>
