@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td align="center" height="102" width="102">
+    <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
@@ -17,7 +17,7 @@
      </a>
      <strong>HTML5</strong>
     </td>
-    <td align="center" height="102" width="102">
+    <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
@@ -28,7 +28,7 @@
      </a>
      <strong>CSS3</strong>
     </td>
-    <td align="center" height="102" width="102">
+    <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -39,7 +39,7 @@
      </a>
      <strong>JavaScript</strong>
     </td>
-    <td align="center" height="102" width="102">
+    <td align="center" height="104" width="104">
      <a href="https://sass-lang.com/">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
@@ -50,16 +50,16 @@
      </a>
      <strong>Sass</strong>
     </td>
-    <td align="center" height="102" width="102">
+    <td align="center" height="104" width="104">
      <a href="https://git-scm.com/">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-        width="60"
+        width="48"
         height="48"
         alt="Git"
       />
      </a>
-     <strong>Git</strong>
+     <br><strong>Git</strong>
     </td>
   </tr>
 </table>
