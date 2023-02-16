@@ -61,6 +61,17 @@
      </a>
      <br><strong>Git</strong>
     </td>
+    <td align="center" height="104" width="104">
+     <a href="https://www.linux.com/what-is-linux/">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+        width="48"
+        height="48"
+        alt="Linux"
+      />
+     </a>
+     <strong>Linux</strong>
+    </td>
   </tr>
 </table>
 
