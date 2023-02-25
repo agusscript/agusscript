@@ -51,17 +51,6 @@
      <strong>Sass</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://getbootstrap.com/">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-     </a>
-     <strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="104" width="104">
      <a href="https://git-scm.com/">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
@@ -82,6 +71,17 @@
       />
      </a>
      <strong>Linux</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://www.npmjs.com/">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+     </a>
+     <strong>Npm</strong>
     </td>
   </tr>
 </table>
