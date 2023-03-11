@@ -50,6 +50,17 @@
      </a>
      <strong>Sass</strong>
     </td>
+     <td align="center" height="104" width="104">
+     <a href="https://www.cypress.io/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/cypress-custom.svg"
+        width="48"
+        height="48"
+        alt="Cypress"
+      />
+     </a>
+     <strong>Cypress</strong>
+    </td>
     <td align="center" height="104" width="104">
      <a href="https://git-scm.com/">
       <img
