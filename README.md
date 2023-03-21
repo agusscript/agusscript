@@ -50,6 +50,8 @@
      </a>
      <strong>Sass</strong>
     </td>
+  </tr>
+  <tr>
      <td align="center" height="104" width="104">
      <a href="https://www.cypress.io/">
       <img
@@ -82,6 +84,17 @@
       />
      </a>
      <strong>Linux</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://www.npmjs.com/">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+     </a>
+     <strong>Npm</strong>
     </td>
   </tr>
 </table>
