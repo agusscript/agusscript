@@ -103,8 +103,8 @@
 
 <a href="https://github.com/agusscript?tab=repositories">
  <img 
-   src="https://github-readme-stats-five-sandy.vercel.app/api/top-langs/?username=agusscript&layout=compact"
-   width="450"
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusscript&layout=compact"
+   width="400"
    alt="Most used programming languages"
  />
 </a>
