@@ -64,17 +64,6 @@
      <strong>Cypress</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://git-scm.com/">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-     </a>
-     <br><strong>Git</strong>
-    </td>
-    <td align="center" height="104" width="104">
      <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
@@ -84,6 +73,17 @@
       />
      </a>
      <strong>Bash</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://git-scm.com/">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+     </a>
+     <br><strong>Git</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://www.linux.com/what-is-linux/">
