@@ -75,15 +75,15 @@
      <br><strong>Git</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://www.npmjs.com/">
+     <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="Bash"
       />
      </a>
-     <strong>Npm</strong>
+     <strong>Bash</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://www.linux.com/what-is-linux/">
