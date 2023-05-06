@@ -2,7 +2,7 @@
 
 <img src ="https://github.com/agusscript/agusscript/blob/main/images/github-banner-en2023.webp"/>
 
-<h2>Languages and Tools</h2>
+<h2>Tech Stack</h2>
 
 <table>
   <tr>
