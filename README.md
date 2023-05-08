@@ -9,7 +9,7 @@
     <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/html5-original.svg"
         width="48"
         height="48"
         alt="HTML"
@@ -20,7 +20,7 @@
     <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/css3-original.svg"
         width="48"
         height="48"
         alt="CSS3"
@@ -31,7 +31,7 @@
     <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/javascript-original.svg"
         width="48"
         height="48"
         alt="JavaScript"
@@ -42,7 +42,7 @@
     <td align="center" height="104" width="104">
      <a href="https://sass-lang.com/">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/sass-original.svg"
         width="48"
         height="48"
         alt="Sass"
@@ -66,7 +66,7 @@
     <td align="center" height="104" width="104">
      <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/bash-original.svg"
         width="48"
         height="48"
         alt="Bash"
@@ -77,7 +77,7 @@
     <td align="center" height="104" width="104">
      <a href="https://git-scm.com/">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/git-original.svg"
         width="48"
         height="48"
         alt="Git"
@@ -88,7 +88,7 @@
     <td align="center" height="104" width="104">
      <a href="https://www.linux.com/what-is-linux/">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/linux-original.svg"
         width="48"
         height="48"
         alt="Linux"
