@@ -42,6 +42,17 @@
     <td align="center" height="104" width="104">
      <a href="https://sass-lang.com/">
       <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+     </a>
+     <strong>React</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://sass-lang.com/">
+      <img
         src="https://github.com/agusscript/agusscript/blob/main/images/sass-original.svg"
         width="48"
         height="48"
@@ -84,6 +95,17 @@
       />
      </a>
      <br><strong>Git</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://sass-lang.com/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+     </a>
+     <strong>Jest</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://www.linux.com/what-is-linux/">
