@@ -40,7 +40,7 @@
      <strong>JavaScript</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://sass-lang.com/">
+     <a href="https://es.react.dev/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/react-original.svg"
         width="48"
@@ -97,7 +97,7 @@
      <br><strong>Git</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://sass-lang.com/">
+     <a href="https://jestjs.io/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
         width="48"
