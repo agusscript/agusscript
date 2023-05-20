@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-<h2>Stats</h2>
+<h2>Github Stats</h2>
 
 <a href="https://github.com/agusscript?tab=repositories">
  <img 
