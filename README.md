@@ -1,6 +1,21 @@
 <h1>Hello World!, I’m Agustin</h1>
 
-<img src ="https://github.com/agusscript/agusscript/blob/main/images/github-banner-en2023.webp"/>
+```
+const aboutMe = {
+  name: 'Agustin Emanuel Sanchez',
+  age: 23,
+  country: 'Argentina',
+  rol: 'Front End Developer',
+  state: 'Open to work',
+};
+
+const contact = {
+  email: 'agus.sanchez.240@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240/',
+  twitter: 'https://twitter.com/agus_script',
+  frontEndMentor: 'https://www.frontendmentor.io/profile/agusscript'
+};
+```
 
 <h2>Tech Stack</h2>
 
