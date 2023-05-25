@@ -1,12 +1,12 @@
 <h1>Hello World!, I’m Agustin</h1>
 
-```
+```javascript
 const aboutMe = {
   name: 'Agustin Emanuel Sanchez',
   age: 23,
   country: 'Argentina',
   rol: 'Front End Developer',
-  state: 'Open to work',
+  state: 'Open to work'
 };
 
 const contact = {
