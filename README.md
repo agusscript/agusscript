@@ -5,7 +5,7 @@ const aboutMe = {
   name: 'Agustin Emanuel Sanchez',
   age: 23,
   country: 'Argentina',
-  rol: 'Front End Developer',
+  role: 'Front End Developer',
   state: 'Open to work'
 };
 
