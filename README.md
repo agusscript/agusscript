@@ -1,4 +1,4 @@
-<h1>Hello World!, I’m Agustin</h1>
+<h1>Hello World! I’m Agustin</h1>
 
 ```javascript
 const aboutMe = {
@@ -7,13 +7,6 @@ const aboutMe = {
   country: 'Argentina',
   role: 'Front End Developer',
   state: 'Open to work'
-};
-
-const contact = {
-  email: 'agus.sanchez.240@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240/',
-  twitter: 'https://twitter.com/agus_script',
-  frontEndMentor: 'https://www.frontendmentor.io/profile/agusscript'
 };
 ```
 
