@@ -58,17 +58,6 @@ const aboutMe = {
      </a>
      <strong>React</strong>
     </td>
-    <td align="center" height="104" width="104">
-     <a href="https://sass-lang.com/">
-      <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-     </a>
-     <strong>Sass</strong>
-    </td>
   </tr>
   <tr>
      <td align="center" height="104" width="104">
@@ -82,16 +71,16 @@ const aboutMe = {
      </a>
      <strong>Cypress</strong>
     </td>
-    <td align="center" height="104" width="104">
-     <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">
+        <td align="center" height="104" width="104">
+     <a href="https://jestjs.io/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/bash-original.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
         width="48"
         height="48"
-        alt="Bash"
+        alt="Jest"
       />
      </a>
-     <strong>Bash</strong>
+     <strong>Jest</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://git-scm.com/">
@@ -104,27 +93,16 @@ const aboutMe = {
      </a>
      <br><strong>Git</strong>
     </td>
-    <td align="center" height="104" width="104">
-     <a href="https://jestjs.io/">
+        <td align="center" height="104" width="104">
+     <a href="https://sass-lang.com/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/sass-original.svg"
         width="48"
         height="48"
-        alt="Jest"
+        alt="Sass"
       />
      </a>
-     <strong>Jest</strong>
-    </td>
-    <td align="center" height="104" width="104">
-     <a href="https://www.linux.com/what-is-linux/">
-      <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/linux-original.svg"
-        width="48"
-        height="48"
-        alt="Linux"
-      />
-     </a>
-     <strong>Linux</strong>
+     <strong>Sass</strong>
     </td>
   </tr>
 </table>
