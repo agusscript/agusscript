@@ -75,7 +75,7 @@ const aboutMe = {
      <a href="https://jestjs.io/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
-        width="48"
+        width="50"
         height="48"
         alt="Jest"
       />
