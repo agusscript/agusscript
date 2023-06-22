@@ -2,11 +2,11 @@
 
 ```javascript
 const aboutMe = {
-  name: 'Agustin Emanuel Sanchez',
+  name: "Agustin Emanuel Sanchez",
   age: 23,
-  country: 'Argentina',
-  role: 'Front End Developer',
-  state: 'Open to work'
+  country: "Argentina",
+  role: "Front End Developer",
+  state: "Open to work",
 };
 ```
 
@@ -56,6 +56,17 @@ const aboutMe = {
       />
      </a>
      <strong>JavaScript</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://www.typescriptlang.org/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="Typescript"
+      />
+     </a>
+     <strong>Typescript</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://es.react.dev/">
