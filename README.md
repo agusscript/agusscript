@@ -13,6 +13,7 @@ const aboutMe = {
 <h2>Tech Stack</h2>
 
 <table>
+  <tr>
     <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
       <img
@@ -35,17 +36,6 @@ const aboutMe = {
      </a>
      <strong>CSS3</strong>
     </td>
-      <td align="center" height="104" width="104">
-     <a href="https://sass-lang.com/">
-      <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-     </a>
-     <strong>Sass</strong>
-    </td>
     <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img
@@ -56,6 +46,41 @@ const aboutMe = {
       />
      </a>
      <strong>JavaScript</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://es.react.dev/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+     </a>
+     <strong>React</strong>
+    </td>
+  </tr>
+  <tr>
+     <td align="center" height="104" width="104">
+     <a href="https://www.cypress.io/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/cypress-custom.svg"
+        width="48"
+        height="48"
+        alt="Cypress"
+      />
+     </a>
+     <strong>Cypress</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://jestjs.io/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
+        width="48"
+        height="48"
+        alt="Jest"
+      />
+     </a>
+     <strong>Jest</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://www.typescriptlang.org/">
@@ -69,16 +94,17 @@ const aboutMe = {
      <strong>Typescript</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://es.react.dev/">
+     <a href="https://sass-lang.com/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/react-original.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/sass-original.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="Sass"
       />
      </a>
-     <strong>React</strong>
+     <strong>Sass</strong>
     </td>
+  </tr>
 </table>
 
 <h2>Github Stats</h2>
