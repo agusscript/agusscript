@@ -5,7 +5,7 @@ const aboutMe = {
   name: "Agustin Emanuel Sanchez",
   age: 23,
   country: "Argentina",
-  role: "Front End Developer",
+  role: "Full-Stack Developer",
   state: "Open to work",
 };
 ```
@@ -15,26 +15,15 @@ const aboutMe = {
 <table>
   <tr>
     <td align="center" height="104" width="104">
-     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
+     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/html5-original.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/csharp-original.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="C#"
       />
      </a>
-     <strong>HTML5</strong>
-    </td>
-    <td align="center" height="104" width="104">
-     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-      <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/css3-original.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-     </a>
-     <strong>CSS3</strong>
+     <strong>C#</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -60,17 +49,6 @@ const aboutMe = {
     </td>
   </tr>
   <tr>
-     <td align="center" height="104" width="104">
-     <a href="https://www.cypress.io/">
-      <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/cypress-custom.svg"
-        width="48"
-        height="48"
-        alt="Cypress"
-      />
-     </a>
-     <strong>Cypress</strong>
-    </td>
     <td align="center" height="104" width="104">
      <a href="https://jestjs.io/">
       <img
@@ -83,15 +61,15 @@ const aboutMe = {
      <strong>Jest</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://www.typescriptlang.org/">
+     <a href="https://dotnet.microsoft.com/en-us/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/typescript-original.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/dot-net-plain-wordmark.svg"
         width="48"
         height="48"
-        alt="Typescript"
+        alt="DotNet"
       />
      </a>
-     <strong>Typescript</strong>
+     <strong>.NET</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://sass-lang.com/">
