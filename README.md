@@ -18,7 +18,7 @@ const aboutMe = {
      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/csharp-original.svg"
-        width="48"
+        width="56"
         height="48"
         alt="C#"
       />
@@ -50,17 +50,6 @@ const aboutMe = {
   </tr>
   <tr>
     <td align="center" height="104" width="104">
-     <a href="https://jestjs.io/">
-      <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
-        width="52"
-        height="48"
-        alt="Jest"
-      />
-     </a>
-     <strong>Jest</strong>
-    </td>
-    <td align="center" height="104" width="104">
      <a href="https://dotnet.microsoft.com/en-us/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/dot-net-plain-wordmark.svg"
@@ -69,7 +58,18 @@ const aboutMe = {
         alt="DotNet"
       />
      </a>
-     <strong>.NET</strong>
+     <strong>DotNet</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://dotnet.microsoft.com/en-us/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+     </a>
+     <strong>TypeScript</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://sass-lang.com/">
