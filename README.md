@@ -18,7 +18,7 @@ const aboutMe = {
      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/csharp-original.svg"
-        width="56"
+        width="62"
         height="48"
         alt="C#"
       />
