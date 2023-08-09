@@ -95,14 +95,6 @@ const aboutMe = {
  />
 </a>
 
-<a href="https://github.com/agusscript?tab=repositories">
- <img 
-   src="https://streak-stats.demolab.com/?user=agusscript"
-   width="457"
-   alt="Streak stats"
- />
-</a>
-
 <h2>You can contact me on</h2>
 <table>
   <tr>
