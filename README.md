@@ -93,7 +93,7 @@ const aboutMe = {
      </a>
      <strong>Sass</strong>
     </td>
-    <td align="center" height="104" width="104">
+    <td align="center" height="104" width="104>
      <a href="https://www.microsoft.com/es-ar/sql-server/sql-server-downloads">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/sqlserver-plain.svg"
@@ -102,7 +102,7 @@ const aboutMe = {
         alt="Sql Server"
       />
      </a>
-     <strong>SQL Server</strong>
+     <strong>SqlServer</strong>
     </td>
   </tr>
 </table>
