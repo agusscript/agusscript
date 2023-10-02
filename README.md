@@ -64,7 +64,7 @@ const aboutMe = {
      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/css3-original.svg"
-        width="48"
+        width="54"
         height="48"
         alt="css3"
       />
@@ -86,7 +86,7 @@ const aboutMe = {
      <a href="https://sass-lang.com/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/sass-original.svg"
-        width="48"
+        width="54"
         height="48"
         alt="Sass"
       />
