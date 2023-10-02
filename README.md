@@ -15,15 +15,15 @@ const aboutMe = {
 <table>
   <tr>
     <td align="center" height="104" width="104">
-     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/csharp-original.svg"
-        width="62"
+        src="https://github.com/agusscript/agusscript/blob/main/images/html5-original.svg"
+        width="48"
         height="48"
-        alt="C#"
+        alt="html5"
       />
      </a>
-     <strong>C#</strong>
+     <strong>HTML</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -48,28 +48,28 @@ const aboutMe = {
      <strong>React</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://www.cypress.io/">
+     <a href="https://jestjs.io/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/cypress-custom.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/jest-plain.svg"
         width="48"
         height="48"
-        alt="Cypress"
+        alt="Jest"
       />
      </a>
-     <strong>Cypress</strong>
+     <strong>Jest</strong>
     </td>
   </tr>
   <tr>
     <td align="center" height="104" width="104">
-     <a href="https://dotnet.microsoft.com/en-us/">
+     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/dot-net-plain-wordmark.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/css3-original.svg"
         width="48"
         height="48"
-        alt="DotNet"
+        alt="css3"
       />
      </a>
-     <strong>DotNet</strong>
+     <strong>CSS</strong>
     </td>
     <td align="center" height="104" width="104">
      <a href="https://dotnet.microsoft.com/en-us/">
@@ -93,16 +93,16 @@ const aboutMe = {
      </a>
      <strong>Sass</strong>
     </td>
-    <td align="center" height="104" width="104>
-     <a href="https://www.microsoft.com/es-ar/sql-server/sql-server-downloads">
+    <td align="center" height="104" width="104">
+     <a href="https://www.cypress.io/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/sqlserver-plain.svg"
+        src="https://github.com/agusscript/agusscript/blob/main/images/cypress-custom.svg"
         width="48"
         height="48"
-        alt="Sql Server"
+        alt="Cypress"
       />
      </a>
-     <strong>SqlServer</strong>
+     <strong>Cypress</strong>
     </td>
   </tr>
 </table>
