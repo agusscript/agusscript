@@ -6,7 +6,7 @@ const aboutMe = {
   age: 23,
   country: "Argentina",
   role: "Full-Stack Developer",
-  state: "Software Developer at ScaleMote",
+  state: "Software Developer at @Bigger",
 };
 ```
 
