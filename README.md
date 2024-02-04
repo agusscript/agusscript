@@ -146,18 +146,5 @@ const aboutMe = {
      <strong>Gmail</strong>
      </a>
     </td>
-   <td align="center" height="110" width="110">
-     <a href="https://twitter.com/agus_script">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
-        width="42"
-        height="50"
-        alt="Twitter"
-      />
-     </a>
-     <a href="https://twitter.com/agus_script">
-      <strong>Twitter</strong>
-     </a>
-    </td>
   </tr>
 </table>
