@@ -72,7 +72,7 @@ const aboutMe = {
      <strong>CSS</strong>
     </td>
     <td align="center" height="104" width="104">
-     <a href="https://dotnet.microsoft.com/en-us/">
+     <a href="https://www.typescriptlang.org/">
       <img
         src="https://github.com/agusscript/agusscript/blob/main/images/typescript-original.svg"
         width="48"
