@@ -6,7 +6,6 @@ const aboutMe = {
   age: 24,
   country: "Argentina",
   role: "Full-Stack Developer",
-  state: "Software Developer at @Bigger",
 };
 ```
 
@@ -120,19 +119,6 @@ const aboutMe = {
 <h2>You can contact me on</h2>
 <table>
   <tr>
-    <td align="center" height="110" width="110">
-     <a href="https://www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240/">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-        width="60"
-        height="50"
-        alt="Linkedin"
-      />
-     </a>
-     <a href="https://www.linkedin.com/in/agustin-emanuel-sanchez-4b2807240/">
-      <strong>Linkedin</strong>
-     </a>
-    </td>
     <td align="center" height="110" width="110">
      <a href="mailto:agus.sanchez.240@gmail.com">
       <img
