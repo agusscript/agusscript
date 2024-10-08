@@ -2,7 +2,7 @@
 
 ```javascript
 const aboutMe = {
-  name: "Agustin Emanuel Sanchez",
+  name: "Agustin Sanchez",
   age: 24,
   country: "Argentina",
   role: "Full-Stack Developer",
