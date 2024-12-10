@@ -57,6 +57,17 @@ const aboutMe = {
      </a>
      <strong>Jest</strong>
     </td>
+    <td align="center" height="104" width="104">
+     <a href="https://www.docker.com/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+     </a>
+     <strong>Docker</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="104" width="104">
@@ -102,6 +113,17 @@ const aboutMe = {
       />
      </a>
      <strong>Cypress</strong>
+    </td>
+    <td align="center" height="104" width="104">
+     <a href="https://nestjs.com/">
+      <img
+        src="https://github.com/agusscript/agusscript/blob/main/images/nestjs-original.svg"
+        width="48"
+        height="48"
+        alt="NestJS"
+      />
+     </a>
+     <strong>NestJS</strong>
     </td>
   </tr>
 </table>
