@@ -60,7 +60,7 @@ const aboutMe = {
     <td align="center" height="104" width="104">
      <a href="https://www.docker.com/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/docker-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
         width="48"
         height="48"
         alt="Docker"
@@ -117,7 +117,7 @@ const aboutMe = {
     <td align="center" height="104" width="104">
      <a href="https://nestjs.com/">
       <img
-        src="https://github.com/agusscript/agusscript/blob/main/images/nestjs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
         width="48"
         height="48"
         alt="NestJS"
